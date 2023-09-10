@@ -1,7 +1,7 @@
 # Ybif-ML-Internship
 Projects and Codes of Machine Learning Internship at YBIF, Where I worked through the following projects.
 
-** 1) Predicting the compressive strength of concrete: **
+ **1) Predicting the compressive strength of concrete:**
 
    DATASET DESCRIPTION:
  
@@ -23,10 +23,10 @@ Projects and Codes of Machine Learning Internship at YBIF, Where I worked throug
  
    -> Concrete compressive strength(strength) -- quantitative -- MPa -- Output Variable
 
-2. To Identify Employee Attrition by using Classification Model:
+**2) To Identify Employee Attrition by using Classification Model:**
 
 The focus of this project is the application of machine learning Model (Random Forest), and its suitability to identify Employee Attrition compared with early models obtained from the literature and also a recommendation system is developed by applying Random Forest Classifier, to predict the Employee Attrition from its components accurately and then looking for the optimal combination of components.
 
-3. Identify Multiple Disease by using Classification Model:
+**3) Identify Multiple Disease by using Classification Model:**
 
 The focus of this project is the application of machine learning Model (Random Forest), and its suitability to identify Multiple Disease compared with early models obtained from the literature and also a recommendation system is developed by applying Random Forest Classifier, to predict the Multiple Disease from its components accurately and then looking for the optimal combination of components.
