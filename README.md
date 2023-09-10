@@ -1,9 +1,9 @@
 # Ybif-ML-Internship
 Projects and Codes of Machine Learning Internship at YBIF, Where I worked through the following projects.
 
-## Predicting the compressive strength of concrete:**
+## 1) Predicting the compressive strength of concrete:
 
-   DATASET DESCRIPTION:
+### DATASET DESCRIPTION:
  
    -> Cement (cement) -- quantitative -- kg in a m3 mixture -- Input Variable
  
