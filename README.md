@@ -23,6 +23,8 @@ Projects and Codes of Machine Learning Internship at YBIF, During the Internship
  
    -> Concrete compressive strength(strength) -- quantitative -- MPa -- Output Variable
 
+This project is the application of machine learning Model (Linear Regression), and its suitability to model concrete compressive strength compared with early models obtained from the literature and also a recommendation system is developed by applying Linear Regression, to predict the concrete strength from its components accurately and then looking for the optimal combination of components which increases the strength.
+
 ## 2) To Identify Employee Attrition by using Classification Model:
 
 The focus of this project is the application of machine learning Model (Random Forest), and its suitability to identify Employee Attrition compared with early models obtained from the literature and also a recommendation system is developed by applying Random Forest Classifier, to predict the Employee Attrition from its components accurately and then looking for the optimal combination of components.
