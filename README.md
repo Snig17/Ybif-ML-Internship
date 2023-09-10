@@ -1,5 +1,5 @@
 # Ybif-ML-Internship
-Projects and Codes of Machine Learning Internship at YBIF, Where I worked through the following projects.
+Projects and Codes of Machine Learning Internship at YBIF, During the Internship I worked through the following projects.
 
 ## 1) Predicting the compressive strength of concrete:
 
