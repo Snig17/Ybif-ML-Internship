@@ -1,34 +1,30 @@
-# Ybif-ML-Internship
-Projects and Codes of Machine Learning Internship at YBIF, During the Internship I worked through the following projects.
+\# YBIF Machine Learning Internship
 
-## 1) Predicting the compressive strength of concrete:
 
-### DATASET DESCRIPTION:
- 
-   -> Cement (cement) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Blast Furnace Slag (slag) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Fly Ash (ash) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Water (water) -- quantitative -- kg in a m3 mixture -- Input Variable
-   
-   -> Superplasticizer (superplastic) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Coarse Aggregate (coarseagg) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Fine Aggregate (fineagg) -- quantitative -- kg in a m3 mixture -- Input Variable
- 
-   -> Age(age) -- quantitative -- Day (1~365) -- Input Variable
- 
-   -> Concrete compressive strength(strength) -- quantitative -- MPa -- Output Variable
 
-This project is the application of machine learning Model (Linear Regression), and its suitability to model concrete compressive strength compared with early models obtained from the literature and also a recommendation system is developed by applying Linear Regression, to predict the concrete strength from its components accurately and then looking for the optimal combination of components which increases the strength.
+Applied ML projects built during a Machine Learning internship at YBIF (Feb–Mar 2023), covering regression and classification across engineering, HR, and healthcare datasets.
 
-## 2) To Identify Employee Attrition by using Classification Model:
 
-The focus of this project is the application of machine learning Model (Random Forest), and its suitability to identify Employee Attrition compared with early models obtained from the literature and also a recommendation system is developed by applying Random Forest Classifier, to predict the Employee Attrition from its components accurately and then looking for the optimal combination of components.
 
-## 3) Identify Multiple Disease by using Classification Model:
+\*\*Tech stack:\*\* Python · Pandas · NumPy · Scikit-learn
 
-The focus of this project is the application of machine learning Model (Random Forest), and its suitability to identify Multiple Disease compared with early models obtained from the literature and also a recommendation system is developed by applying Random Forest Classifier, to predict the Multiple Disease from its components accurately and then looking for the optimal combination of components.
+
+
+\## Projects
+
+
+
+| Project | Task | Model | Result |
+
+|---|---|---|---|
+
+| \[Concrete Compressive Strength](./Concrete%20Compressive%20Strength) | Predict concrete strength (MPa) from mix components | Linear Regression | MAE 8.30 |
+
+| \[Employee Attrition](./Identify%20Employee%20Attrition) | Predict employee attrition (Yes/No) | Random Forest | 86.2% accuracy |
+
+| \[Multiple Disease](./Identify%20Multiple%20Disease) | Classify disease from symptoms | Random Forest | 100% accuracy |
+
+
+
+Each project folder has its own README with dataset details, approach, and results.
+
